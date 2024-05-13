@@ -1,0 +1,207 @@
+header {
+	background-color: 48B6E4;
+	color: white;
+	text-align: center;
+	font-family: Courier New;
+	width: 100%;
+	font-size: 16px;
+	height: 54px;
+}
+
+header h1 {
+	font-family: sans-serif;
+	font-size: 18px;
+	padding-top: 15px;
+}
+
+.logo .lc_boards {
+	width: 206px;
+	height: 64px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	margin-left: 60px;
+
+}
+
+.logo a {
+	font-family: sans-serif;
+	position: relative;
+	left: 770px;
+	bottom: 60px;
+	font-size: 24px;
+	text-decoration: underline;
+	opacity: 0.6;
+}
+
+.logo img {
+	width: 49px;
+	height: 49px;
+}
+
+.sign {
+	position: relative;
+	left: 850px;
+	bottom: 50px;
+}
+
+.promo {
+    position: relative;
+    left: 860px;
+    bottom: 55px;
+}
+
+.logo {
+	height: 109px;
+}
+
+.basket {
+	position: relative;
+	left: 860px;
+	bottom: 55px;
+}
+
+.SHOP {
+	background-color: D9D9D9;
+	font-family: sans-serif;
+	position: relative;
+	height: 39px;
+}
+.SHOP h2 {
+	margin-left: 160px;
+    padding-top: 10px;
+}
+
+.BURGER {
+	transform: rotate(-90deg);
+	width: 37px;
+	height: 37px;
+	position: relative;
+	bottom: 55px;
+	left: 110;
+}
+
+.fone {
+  	position: relative;
+  	width: 929px;
+  	height: 650px;
+  	margin-top: 30px;
+  	left: 270px;
+}
+
+main h2 {
+	text-decoration: underline;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+body {
+	font-family: sans-serif;
+}
+
+.line1 article {
+	text-align: center;
+}
+
+.line1 {
+	display: flex;
+	justify-content: space-around;
+}
+
+.line1 img {
+	width: 278px;
+	height: 286px;
+}
+
+.line2 article {
+	text-align: center;
+}
+
+.line2 {
+	display: flex;
+	justify-content: space-around;
+}
+
+.line2 img {
+	width: 278px;
+	height: 286px;
+}
+
+.line3 article {
+	text-align: center;
+}
+
+.line3 {
+	display: flex;
+	justify-content: space-around;
+}
+
+.line3 img {
+	width: 278px;
+	height: 286px;
+}
+
+.new_products {
+	display: flex;
+	justify-content: space-around;
+}
+
+.new_products img {
+	width: 226px;
+	height: 215px;
+}
+
+.new_products article {
+	text-align: center;
+	border-left: 3px solid #D9D9D9;
+	border-right: 3px solid #D9D9D9;
+	padding: 0 30px 0 30px;
+}
+
+main h1 {
+	text-align: center;
+}
+
+main h1 {
+	text-decoration: underline;
+}
+
+.YOUTUUBE {
+	border-radius: 15px;
+	opacity: 0.6;	
+	position: absolute;
+	top: 3500px;
+}
+
+.FROG {
+	display: flex;
+	justify-content: center;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+.futer1 article {
+	margin: 30px 30px 0 50px;
+	background-color: violet;
+	width: 284px;
+	height: 97px;
+	border-radius: 10px;
+	font-size: 21px;
+}
+
+.futer1 {
+	background-color: #2C2C2C;
+	height: 300px;
+	width: 100%;
+}
+
+.futer2 article {
+	text-align: center;
+	color: white;
+	padding-top: 50px;
+}
+
+.futer2 {
+	background-color: #1A1A1A;
+	height: 200px;
+	width: 100%;
+}
